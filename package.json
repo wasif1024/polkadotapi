@@ -1,0 +1,15 @@
+{
+  "name": "test_connection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@polkadot/api": "^13.2.1",
+    "@polkadot/types": "^13.2.1"
+  }
+}
